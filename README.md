@@ -1,1 +1,4 @@
 # StudentCourseManagement
+StudentManagementを参考に作成
+データテーブルを二つにした。
+生徒名でコースを呼び出せる
